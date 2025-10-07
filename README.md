@@ -78,7 +78,7 @@
 ╭─ Ping_me.json
 │ @ email     → mihirtalati3@gmail.com
 │ @ linkedin  → linkedin.com/in/mihir-talati-2671a2247
-│ @ terminal  → Mihir-Null.github.io
+│ @ Website  → Mihir-Null.github.io
 │ @ github    → github.com/Mihir-Null
 ╰─────────────────────────────────────────────
 ```
