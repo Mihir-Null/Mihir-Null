@@ -22,8 +22,10 @@
   <img src="https://img.shields.io/badge/Physics-black?style=for-the-badge&logo=SageMath&logoColor=white&labelColor=black" alt="Physics badge" />
   <img src="https://img.shields.io/badge/Computer_Science-black?style=for-the-badge&logo=Educative&logoColor=white&labelColor=black" alt="Computer Science badge" />
 </p>
-<p align = "center">
-  ![Website](https://img.shields.io/badge/Portfolio-Mihir%20Talati-black?style=for-the-badge&logo=githubpages&logoColor=white)](https://mihir-null.github.io)
+<p align="center">
+  <a href="https://mihir-null.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-Mihir%20Talati-black?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio Badge" />
+  </a>
 </p>
 
 
