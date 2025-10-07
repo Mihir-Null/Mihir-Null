@@ -89,6 +89,3 @@
 │ Tracking commit signal in real time...
 ╰────────────────────────────────────────
 ```
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mihir-Null&theme=highcontrast&hide_border=true" alt="GitHub streak stats" />
-</p>
