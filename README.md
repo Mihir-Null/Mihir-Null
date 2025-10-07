@@ -18,9 +18,9 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Quantum_Computing-black?style=for-the-badge&logo=Qiskit&logoColor=white&labelColor=black" alt="Quantum Computing badge" />
-  <img src="https://img.shields.io/badge/Machine_Learning-black?style=flat&logo=pytorch&logoColor=white&labelColor=black" alt="Machine Learning badge" />
-  <img src="https://img.shields.io/badge/Physics-black?style=flat-square&logo=SageMath&logoColor=white&labelColor=black" alt="Physics badge" />
-  <img src="https://img.shields.io/badge/Computer_Science-black?style=plastic&logo=Educative&logoColor=white&labelColor=black" alt="Computer Science badge" />
+  <img src="https://img.shields.io/badge/Machine_Learning-black?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=black" alt="Machine Learning badge" />
+  <img src="https://img.shields.io/badge/Physics-black?style=for-the-badge&logo=SageMath&logoColor=white&labelColor=black" alt="Physics badge" />
+  <img src="https://img.shields.io/badge/Computer_Science-black?style=for-the-badge&logo=Educative&logoColor=white&labelColor=black" alt="Computer Science badge" />
 </p>
 
 
