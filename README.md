@@ -25,22 +25,23 @@
 
 
 ```text
-> About.txt
-  Name       Mihir Talati
-  Location   College Park, MD · USA
-  Email      mihirtalati3@gmail.com
-  Phone      +1 (240) 351-1014
-  LinkedIn   linkedin.com/in/mihir-talati-2671a2247
-  GitHub     github.com/Mihir-Null
-  Degrees    B.S. CS (Honors) · B.S. Physics (Honors) @ UMD
-  UMD GPA    3.974
-  Interests  Quantum · ML · Scientific Computing
-
-  open  Mihir-Null.github.io  # full interactive terminal
+╭─> About.txt
+│ ▸ Name       Mihir Talati
+│ ▸ Location   College Park, MD · USA
+│ ▸ Email      mihirtalati3@gmail.com
+│ ▸ Phone      +1 (240) 351-1014
+│ ▸ LinkedIn   linkedin.com/in/mihir-talati-2671a2247
+│ ▸ GitHub     github.com/Mihir-Null
+│ ▸ Degrees    B.S. CS (Honors) · B.S. Physics (Honors) @ UMD
+│ ▸ UMD GPA    3.974
+│ ▸ Interests  Quantum · ML · Scientific Computing
+|
+|  open  Mihir-Null.github.io  # full interactive terminal
+╰─────────────────────────────────────────────────────────
 ```
 
 ```text
-╭─ Now_Playing.log
+╭─> Now_Playing.log
 │ ▸ Fault-tolerant qudit CSS codes @ QuICS (CAAR REU)
 │     Designing new families, proving transversal Clifford/T gates,
 │     scaling Python + finite-field tooling for large code searches.
@@ -56,7 +57,7 @@
 ```
 
 ```text
-╭─ Toolbelt.ls
+╭─> Toolbelt.ls
 │ Python · Qiskit · Cirq · Magma · SageMath · PyTorch
 │ TensorFlow Quantum · MPI · Numba · TypeScript · Next.js
 │ C / C++ · MATLAB · OpenCV
@@ -64,7 +65,7 @@
 ```
 
 ```text
-╭─ Highlights.md
+╭─> Highlights.md
 │ ▸ Quantum state reconstruction with variational quantum circuits
 │     arXiv:2507.01246
 │ ▸ Action platformers with custom 2D soft-body simulation
@@ -75,19 +76,19 @@
 ```
 
 ```text
-╭─ Ping_me.json
+╭─> Ping_me.json
 │ @ email     → mihirtalati3@gmail.com
 │ @ linkedin  → linkedin.com/in/mihir-talati-2671a2247
-│ @ Website  → Mihir-Null.github.io
+│ @ website  → Mihir-Null.github.io
 │ @ github    → github.com/Mihir-Null
 ╰─────────────────────────────────────────────
 ```
 
 ```text
-╭─ streaks.watch
+╭─> streaks.watch
 │ Tracking commit signal in real time...
 ╰────────────────────────────────────────
 ```
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mihir-Null&theme=shadow-green&hide_border=true" alt="GitHub streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mihir-Null&theme=highcontrast&hide_border=true" alt="GitHub streak stats" />
 </p>
