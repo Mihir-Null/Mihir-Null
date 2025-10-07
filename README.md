@@ -1,21 +1,19 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=700&height=60&color=00FF9F&lines=Hey%2C+I'm+Mihir+Talati;Quantum+Computing+%7C+ML+%7C+Systems" alt="Animated introduction banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=700&height=60&color=00FF9F&lines=Hey%2C+I'm+Mihir+Talati;Quantum+Computing+%7C+ML+%7C+Scientific Computing" alt="Animated introduction banner" />
 </p>
 
 <pre align="center">
-   ███  ███    ██████    ██  ██    ██████    ██████   ▫▫▫▫▫▫▫
-   ██ ███ ██      ██      ██  ██      ██      ██  ██   ▫▫▫▫▫▫▫
-   ██  █  ██      ██      ██████      ██      █████   ▫▫▫▫▫▫▫
-   ██     ██      ██      ██  ██      ██      ██ ██   ▫▫▫▫▫▫▫
-   ██     ██    ██████    ██  ██    ██████    ██  ██   ▫▫▫▫▫▫▫
+   ███  ███    ██████    ██  ██    ██████    ██████
+   ██ ███ ██      ██      ██  ██      ██      ██  ██
+   ██  █  ██      ██      ██████      ██      █████
+   ██     ██      ██      ██  ██      ██      ██ ██
+   ██     ██    ██████    ██  ██    ██████    ██  ██
 
-   ███████     ████     ██         ████     ███████    ██████   ▫▫▫▫▫▫▫
-     ███      ██  ██    ██        ██  ██      ███        ██   ▫▫▫▫▫▫▫
-     ███      ██████    ██        ██████      ███        ██   ▫▫▫▫▫▫▫
-     ███      ██  ██    ██        ██  ██      ███        ██   ▫▫▫▫▫▫▫
-     ███      ██  ██    ██████    ██  ██      ███      ██████   ▫▫▫▫▫▫▫
-        ▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫
-          ▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫
+   ███████     ████     ██         ████     ███████    ██████
+     ███      ██  ██    ██        ██  ██      ███        ██
+     ███      ██████    ██        ██████      ███        ██
+     ███      ██  ██    ██        ██  ██      ███        ██
+     ███      ██  ██    ██████    ██  ██      ███      ██████
 </pre>
 
 <p align="center">
@@ -25,14 +23,7 @@
 </p>
 
 ```text
-> sumfetch
-
-   ████        
-  ██  ██  ████ 
-  ██  ██ ██  ██
-  ██  ██ ██  ██
-   ████   ████ 
-
+> About.txt
   Name       Mihir Talati
   Location   College Park, MD · USA
   Email      mihirtalati3@gmail.com
@@ -41,13 +32,13 @@
   GitHub     github.com/Mihir-Null
   Degrees    B.S. CS (Honors) · B.S. Physics (Honors) @ UMD
   UMD GPA    3.974
-  Interests  Quantum · ML · Systems Engineering
+  Interests  Quantum · ML · Scientific Computing
 
-  open       miterm.vercel.app  # full interactive terminal
+  open         # full interactive terminal
 ```
 
 ```text
-╭─ now_playing.log
+╭─ Now_Playing.log
 │ ▸ Fault-tolerant qudit CSS codes @ QuICS (CAAR REU)
 │     Designing new families, proving transversal Clifford/T gates,
 │     scaling Python + finite-field tooling for large code searches.
@@ -63,7 +54,7 @@
 ```
 
 ```text
-╭─ toolbelt.ls
+╭─ Toolbelt.ls
 │ Python · Qiskit · Cirq · Magma · SageMath · PyTorch
 │ TensorFlow Quantum · MPI · Numba · TypeScript · Next.js
 │ C / C++ · MATLAB · OpenCV
@@ -71,7 +62,7 @@
 ```
 
 ```text
-╭─ signal_boost.md
+╭─ Highlights.md
 │ ▸ Quantum state reconstruction with variational quantum circuits
 │     arXiv:2507.01246
 │ ▸ Action platformers with custom 2D soft-body simulation
@@ -82,10 +73,10 @@
 ```
 
 ```text
-╭─ ping_me.txt
+╭─ Ping_me.json
 │ @ email     → mihirtalati3@gmail.com
 │ @ linkedin  → linkedin.com/in/mihir-talati-2671a2247
-│ @ terminal  → miterm.vercel.app
+│ @ terminal  → Mihir-Null.github.io
 │ @ github    → github.com/Mihir-Null
 ╰─────────────────────────────────────────────
 ```
@@ -96,9 +87,5 @@
 ╰────────────────────────────────────────
 ```
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mihir-Null&theme=radical&hide_border=true" alt="GitHub streak stats" />
-</p>
-
-<p align="center">
-  <sub>⌨️ Typed, themed, and animated to mirror MiTerm.</sub>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mihir-Null&theme=shadow-green&hide_border=true" alt="GitHub streak stats" />
 </p>
