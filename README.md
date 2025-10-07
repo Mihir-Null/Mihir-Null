@@ -24,7 +24,7 @@
 </p>
 <p align="center">
   <a href="https://mihir-null.github.io">
-    <img src="https://img.shields.io/badge/Website-Mihir%20Talati-black?style=for-the-badge&logo=internetarchive&logoColor=white" alt="Portfolio Badge" />
+    <img src="https://img.shields.io/badge/Website-Mihir%20Talati-black?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio Badge" />
   </a>
 </p>
 
