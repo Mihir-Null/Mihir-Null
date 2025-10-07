@@ -36,7 +36,7 @@
 │ ▸ UMD GPA    3.974
 │ ▸ Interests  Quantum · ML · Scientific Computing
 |
-|  open  Mihir-Null.github.io  # full interactive terminal
+|  [more](https://Mihir-Null.github.io)
 ╰─────────────────────────────────────────────────────────
 ```
 
