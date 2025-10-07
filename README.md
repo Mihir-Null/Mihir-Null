@@ -41,9 +41,7 @@
 │ ▸ UMD GPA    3.974
 │ ▸ Interests  Quantum · ML · Scientific Computing
 ╰─────────────────────────────────────────────────────────
-```
 
-```text
 ╭─> Now_Playing.log
 │ ▸ Fault-tolerant qudit CSS codes @ QuICS (CAAR REU)
 │     Designing new families, proving transversal Clifford/T gates,
@@ -57,17 +55,13 @@
 │     Kalman filters for Terrapin Rocket Team · club workflow bots
 │     with Selenium, Discord.py, Google & Instagram APIs.
 ╰──────────────────────────────────────────────────────────────────
-```
 
-```text
 ╭─> Toolbelt.ls
 │ Python · Qiskit · Cirq · Magma · SageMath · PyTorch
 │ TensorFlow Quantum · MPI · Numba · TypeScript · Next.js
 │ C / C++ · MATLAB · OpenCV
 ╰────────────────────────────────────────────────────
-```
 
-```text
 ╭─> Highlights.md
 │ ▸ Quantum state reconstruction with variational quantum circuits
 │     arXiv:2507.01246
@@ -76,17 +70,14 @@
 │ ▸ Always down to chat quantum error correction, ML for physics,
 │     and high-impact student org projects.
 ╰──────────────────────────────────────────────────────
-```
 
-```text
 ╭─> Ping_me.json
 │ @ email     → mihirtalati3@gmail.com
 │ @ linkedin  → linkedin.com/in/mihir-talati-2671a2247
 │ @ website  → Mihir-Null.github.io
 │ @ github    → github.com/Mihir-Null
 ╰─────────────────────────────────────────────
-```
-```text
+
 ╭─ commits.watch
 │ Rendering commits in real time...
 | ERROR: Worm detected!
