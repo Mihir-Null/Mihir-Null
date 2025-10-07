@@ -86,4 +86,5 @@
 ```text
 ╭─ commits.watch
 │ Tracking commits in real time...
+```
 ![snake gif](https://github.com/Mihir-Null/Mihir-Null/blob/output/github-snake-dark.svg)
