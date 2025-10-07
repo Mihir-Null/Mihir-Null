@@ -87,7 +87,7 @@
 ╭─ commits.watch
 │ Rendering commits in real time...
 | ERROR: Worm detected!
-╰─────────────────────────────────────────────
+╰───────────────────────────────────
 ```
 <p align = "center">
   <img src= "https://github.com/Mihir-Null/Mihir-Null/blob/output/github-snake-dark.svg"/>
