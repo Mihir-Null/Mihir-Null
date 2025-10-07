@@ -83,9 +83,3 @@
 │ @ github    → github.com/Mihir-Null
 ╰─────────────────────────────────────────────
 ```
-
-```text
-╭─> streaks.watch
-│ Tracking commit signal in real time...
-╰────────────────────────────────────────
-```
