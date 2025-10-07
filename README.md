@@ -17,10 +17,10 @@
 </pre>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Quantum_Computing-%FFFFFFF?style=flat&logo=Qiskit&logoColor=111111" alt="Quantum Computing badge" />
-  <img src="https://img.shields.io/badge/Machine_Learning-%FFFFFFF?style=flat&logo=pytorch&logoColor=111111" alt="Machine Learning badge" />
-  <img src="https://img.shields.io/badge/Physics-%FFFFFFFF?style=flat&logo=SageMath&logoColor=111111" alt="Physics Honors badge" />
-  <img src="https://img.shields.io/badge/Computer Science-%FFFFFFFF?style=flat&logo=Educative&logoColor=111111" alt="Physics Honors badge" />
+  <img src="https://img.shields.io/badge/Quantum_Computing-%000000?style=for-the-bade&logo=Qiskit&logoColor=111111" alt="Quantum Computing badge" />
+  <img src="https://img.shields.io/badge/Machine_Learning-%000000?style=flat&logo=pytorch&logoColor=111111" alt="Machine Learning badge" />
+  <img src="https://img.shields.io/badge/Physics-%000000?style=flat-square&logo=SageMath&logoColor=111111" alt="Physics Honors badge" />
+  <img src="https://img.shields.io/badge/Computer Science-%000000?style=plastic&logo=Educative&logoColor=111111" alt="Physics Honors badge" />
 </p>
 
 ```text
