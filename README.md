@@ -22,6 +22,9 @@
   <img src="https://img.shields.io/badge/Physics-black?style=for-the-badge&logo=SageMath&logoColor=white&labelColor=black" alt="Physics badge" />
   <img src="https://img.shields.io/badge/Computer_Science-black?style=for-the-badge&logo=Educative&logoColor=white&labelColor=black" alt="Computer Science badge" />
 </p>
+<p align = "center">
+  [![Website](https://img.shields.io/badge/Portfolio-Mihir%20Talati-black?style=for-the-badge&logo=githubpages&logoColor=white)](https://mihir-null.github.io)
+</p>
 
 
 ```text
@@ -35,8 +38,6 @@
 │ ▸ Degrees    B.S. CS (Honors) · B.S. Physics (Honors) @ UMD
 │ ▸ UMD GPA    3.974
 │ ▸ Interests  Quantum · ML · Scientific Computing
-|
-|  [more](https://Mihir-Null.github.io)
 ╰─────────────────────────────────────────────────────────
 ```
 
