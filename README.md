@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/Quantum_Computing-%2300FF9F?style=flat&logo=Qiskit&logoColor=111111" alt="Quantum Computing badge" />
   <img src="https://img.shields.io/badge/Machine_Learning-%2300CFFF?style=flat&logo=pytorch&logoColor=111111" alt="Machine Learning badge" />
   <img src="https://img.shields.io/badge/Physics-%23FFD166?style=flat&logo=SageMath&logoColor=111111" alt="Physics Honors badge" />
-  <img src="https://img.shields.io/badge/Computer Science-%23FFD166?style=flat&logo=Educative&logoColor=111111" alt="Physics Honors badge" />
+  <img src="https://img.shields.io/badge/Computer Science-%2300D166?style=flat&logo=Educative&logoColor=111111" alt="Physics Honors badge" />
 </p>
 
 ```text
