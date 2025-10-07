@@ -3,70 +3,101 @@
 </p>
 
 <pre align="center">
-   ███  ███    ██████    ██  ██    ██████    ██████  
-   ██ ███ ██      ██      ██  ██      ██      ██  ██  
-   ██  █  ██      ██      ██████      ██      █████   
-   ██     ██      ██      ██  ██      ██      ██ ██   
-   ██     ██    ██████    ██  ██    ██████    ██  ██  
+   ███  ███    ██████    ██  ██    ██████    ██████   ▫▫▫▫▫▫▫
+   ██ ███ ██      ██      ██  ██      ██      ██  ██   ▫▫▫▫▫▫▫
+   ██  █  ██      ██      ██████      ██      █████   ▫▫▫▫▫▫▫
+   ██     ██      ██      ██  ██      ██      ██ ██   ▫▫▫▫▫▫▫
+   ██     ██    ██████    ██  ██    ██████    ██  ██   ▫▫▫▫▫▫▫
 
-   ███████     ████     ██         ████     ███████    ██████ 
-     ███      ██  ██    ██        ██  ██      ███        ██   
-     ███      ██████    ██        ██████      ███        ██   
-     ███      ██  ██    ██        ██  ██      ███        ██   
-     ███      ██  ██    ██████    ██  ██      ███      ██████ 
+   ███████     ████     ██         ████     ███████    ██████   ▫▫▫▫▫▫▫
+     ███      ██  ██    ██        ██  ██      ███        ██   ▫▫▫▫▫▫▫
+     ███      ██████    ██        ██████      ███        ██   ▫▫▫▫▫▫▫
+     ███      ██  ██    ██        ██  ██      ███        ██   ▫▫▫▫▫▫▫
+     ███      ██  ██    ██████    ██  ██      ███      ██████   ▫▫▫▫▫▫▫
+        ▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫
+          ▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫
 </pre>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Quantum_Computing-%2300FF9F?style=flat&logo=Qiskit&logoColor=111111" alt="Quantum Computing badge" />
+  <img src="https://img.shields.io/badge/Quantum_Computing-%2300FF9F?style=flat&logo=qubes-os&logoColor=111111" alt="Quantum Computing badge" />
   <img src="https://img.shields.io/badge/Machine_Learning-%2300CFFF?style=flat&logo=pytorch&logoColor=111111" alt="Machine Learning badge" />
-  <img src="https://img.shields.io/badge/Physics-%23FFD166?style=flat&logo=SageMath&logoColor=111111" alt="Physics" />
-  <img src="https://img.shields.io/badge/Computer_Science-%23FFD166?style=flat&logo=educative&logoColor=111111" alt="Computer Science" />
+  <img src="https://img.shields.io/badge/Physics_Honors-%23FFD166?style=flat&logo=atom&logoColor=111111" alt="Physics Honors badge" />
 </p>
 
-### Fast Fetch
+```text
+> sumfetch
 
-| Field | Info |
-| ----- | ---- |
-| Name | Mihir Talati |
-| Location | College Park, MD (USA) |
-| Email | [mihirtalati3@gmail.com](mailto:mihirtalati3@gmail.com) |
-| Phone | +1 (240) 351-1014 |
-| LinkedIn | [linkedin.com/in/mihir-talati-2671a2247](https://www.linkedin.com/in/mihir-talati-2671a2247/) |
-| GitHub | [github.com/Mihir-Null](https://github.com/Mihir-Null) |
-| Degrees | B.S. Computer Science (Honors), B.S. Physics (Honors) @ UMD |
-| UMD GPA | 3.974 |
-| Interests | Quantum computing, machine learning, systems engineering |
+   ████        
+  ██  ██  ████ 
+  ██  ██ ██  ██
+  ██  ██ ██  ██
+   ████   ████ 
 
-> Visit **[MiTerm — the live terminal portfolio](https://miterm.vercel.app)** for the full interactive experience.
+  Name       Mihir Talati
+  Location   College Park, MD · USA
+  Email      mihirtalati3@gmail.com
+  Phone      +1 (240) 351-1014
+  LinkedIn   linkedin.com/in/mihir-talati-2671a2247
+  GitHub     github.com/Mihir-Null
+  Degrees    B.S. CS (Honors) · B.S. Physics (Honors) @ UMD
+  UMD GPA    3.974
+  Interests  Quantum · ML · Systems Engineering
 
-### What I'm Building
+  open       miterm.vercel.app  # full interactive terminal
+```
 
-- **Fault-tolerant qudit CSS codes @ QuICS (CAAR REU)** – designing new code families, proving transversal Clifford/T gate implementations, and scaling Python tooling across Galois fields.
-- **Quantum state tomography via variational circuits** – co-authoring work on hybrid QML pipelines, with 2000+ simulations across HPC nodes using Qiskit, Aer, MPI, and Numba.
-- **Neutral atom compilation (QuEra, MIT iQuHack)** – translating QAOA and Steane circuits into device-level instructions; team earned an Honorable Mention.
-- **Other projects** – from Kalman filtering for the Terrapin Rocket Team to full-stack club workflow bots (Selenium, Discord.py, Google/Instagram APIs).
+```text
+╭─ now_playing.log
+│ ▸ Fault-tolerant qudit CSS codes @ QuICS (CAAR REU)
+│     Designing new families, proving transversal Clifford/T gates,
+│     scaling Python + finite-field tooling for large code searches.
+│ ▸ Quantum state tomography via variational circuits
+│     2000+ HPC simulations across Qiskit, Aer, MPI, Numba;
+│     co-author on hybrid QML tomography paper.
+│ ▸ Neutral atom compilation (QuEra · MIT iQuHack Honorable Mention)
+│     Translating QAOA & Steane circuits into neutral-atom instructions.
+│ ▸ Automation side quests
+│     Kalman filters for Terrapin Rocket Team · club workflow bots
+│     with Selenium, Discord.py, Google & Instagram APIs.
+╰──────────────────────────────────────────────────────────────────
+```
 
-### Toolbelt
+```text
+╭─ toolbelt.ls
+│ Python · Qiskit · Cirq · Magma · SageMath · PyTorch
+│ TensorFlow Quantum · MPI · Numba · TypeScript · Next.js
+│ C / C++ · MATLAB · OpenCV
+╰────────────────────────────────────────────────────
+```
 
-`Python` · `Qiskit` · `Cirq` · `Magma` · `SageMath` · `PyTorch` · `TensorFlow Quantum` · `MPI` · `Numba` · `TypeScript` · `Next.js` · `C/C++` · `MATLAB` · `OpenCV`
+```text
+╭─ signal_boost.md
+│ ▸ Quantum state reconstruction with variational quantum circuits
+│     arXiv:2507.01246
+│ ▸ Action platformers with custom 2D soft-body simulation
+│     twoguysstudios.itch.io
+│ ▸ Always down to chat quantum error correction, ML for physics,
+│     and high-impact student org projects.
+╰──────────────────────────────────────────────────────
+```
 
-### Snapshot Stats
+```text
+╭─ ping_me.txt
+│ @ email     → mihirtalati3@gmail.com
+│ @ linkedin  → linkedin.com/in/mihir-talati-2671a2247
+│ @ terminal  → miterm.vercel.app
+│ @ github    → github.com/Mihir-Null
+╰─────────────────────────────────────────────
+```
 
+```text
+╭─ streaks.watch
+│ Tracking commit signal in real time...
+╰────────────────────────────────────────
+```
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Mihir-Null&theme=radical&hide_border=true" alt="GitHub streak stats" />
 </p>
-
-### Signal Boost
-
-- *Quantum state reconstruction with variational quantum circuits* – [arXiv:2507.01246](https://arxiv.org/abs/2507.01246)
-- *Two action platformers with custom 2D soft-body simulation* – [twoguysstudios.itch.io](https://twoguysstudios.itch.io)
-- *I’m always up for chatting about quantum error correction, machine learning, or the student organizations I'm involved in.*
-
-### Ping Me
-
-- `mihirtalati3@gmail.com`
-- [LinkedIn](https://www.linkedin.com/in/mihir-talati-2671a2247/)
-- [MiTerm](https://miterm.vercel.app) • [GitHub](https://github.com/Mihir-Null)
 
 <p align="center">
   <sub>⌨️ Typed, themed, and animated to mirror MiTerm.</sub>
