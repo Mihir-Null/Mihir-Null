@@ -24,7 +24,7 @@
 </p>
 <p align="center">
   <a href="https://mihir-null.github.io">
-    <img src="https://img.shields.io/badge/Personal-Website-black?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio Badge" />
+    <img src="https://img.shields.io/badge/Personal%20Website-black?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio Badge" />
   </a>
 </p>
 
