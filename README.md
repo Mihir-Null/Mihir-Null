@@ -86,6 +86,7 @@
 ```text
 ╭─ commits.watch
 │ Rendering commits in real time...
+| ERROR: Worm detected!
 ╰─────────────────────────────────────────────
 ```
 <p align = "center">
