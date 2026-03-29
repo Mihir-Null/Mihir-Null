@@ -58,7 +58,7 @@
 │     with Selenium, Discord.py, Google & Instagram APIs.
 ╰──────────────────────────────────────────────────────────────────
 
-╭─> Toolbelt.ls
+╭─> Toolbelt.yml
 │ Python · Qiskit · Cirq · Magma · SageMath · PyTorch
 │ TensorFlow Quantum · MPI · Numba · TypeScript · Next.js
 │ C / C++ · MATLAB · OpenCV
