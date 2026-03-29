@@ -2,13 +2,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=700&height=60&color=FFFFFF&lines=Hey%2C+I'm+Mihir+Talati;Quantum+Computing+%7C+ML+%7C+Scientific+Computing" alt="Animated introduction banner" />
 </p>
 
-<pre align="center">
-     ███  ███    ██████    ██  ██    ██████    ██████  
-   ██ ███ ██      ██      ██  ██      ██      ██  ██ 
-   ██  █  ██      ██      ██████      ██      █████  
-   ██     ██      ██      ██  ██      ██      ██ ██  
-   ██     ██    ██████    ██  ██    ██████    ██  ██ 
-
+<pre style="text-align: center; font-family: monospace;">
+       ███   ███    ██████    ██  ██    ██████    █████       
+       ██ ███ ██      ██      ██  ██      ██      ██  ██      
+       ██  █  ██      ██      ██████      ██      █████       
+       ██     ██      ██      ██  ██      ██      ██ ██       
+       ██     ██    ██████    ██  ██    ██████    ██  ██      
+                                                               
    ███████     ████     ██         ████     ███████    ██████ 
      ███      ██  ██    ██        ██  ██      ███        ██   
      ███      ██████    ██        ██████      ███        ██   
